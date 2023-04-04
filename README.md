@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rfarssi00" alt="rfarssi00" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://rfarssi00.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [my portfolio](https://rfarssi00.github.io/) --> 
 
 - 📫 How to reach me **farssirama@gmail.com**
 
