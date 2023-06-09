@@ -43,7 +43,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rfarssi00&theme=transparent)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfarssi00&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfarssi00&layout=pie)](https://github.com/rfarssi00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfarssi00&layout=pie&theme=transparent)](https://github.com/rfarssi00/github-readme-stats)
 <br/>
 <br/>
 <p align="center">
