@@ -46,12 +46,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfarssi00&show_icons=true&theme=transparent)
 
 
-<br/>
-<br/>
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-</p>
-
 
 
 
