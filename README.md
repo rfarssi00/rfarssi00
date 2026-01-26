@@ -91,14 +91,7 @@ Création de sites web pour PME internationales avec optimisation UX/UI et gesti
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfarssi00&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfarssi00&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfarssi00&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rfarssi00)](https://git.io/streak-stats)
 
 ---
 
