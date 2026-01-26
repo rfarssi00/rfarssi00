@@ -91,9 +91,6 @@ Création de sites web pour PME internationales avec optimisation UX/UI et gesti
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a"GitHub Streak"</a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rfarssi00&show_icons=true&theme=default" alt="GitHub Stats" />
