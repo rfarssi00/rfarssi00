@@ -21,7 +21,7 @@
 - 🎓 **Diplômée** de l'École Centrale de Lyon (Master IA) et ENSMR (Ingénieure SI)
 - 💼 **Data Analyst** chez IFRAL | **Développeuse Web Freelance** sur Upwork
 - 🔬 Expérience en **NLP**, **Machine Learning**, et **analyse de données**
-- 🌐 Portfolio professionnel : [rfarssi00.github.io](https://rfarssi00.github.io/)
+- 🌐 CV professionnel : [rfarssi00.github.io](https://rfarssi00.github.io/)
 - 📫 Contact : **farssirama@gmail.com**
 
 ---
@@ -57,6 +57,11 @@
 ---
 
 ## 💼 Projets & Expériences clés
+
+### 📄 Publication Scientifique
+**Time series prediction of sea surface temperature based on BiLSTM model with attention mechanism**  
+*Journal of Sea Research* (Avril 2024) - [DOI: 10.1016/j.seares.2024.102472](https://doi.org/10.1016/j.seares.2024.102472)  
+Développement d'un modèle BiLSTM avec mécanisme d'attention pour la prédiction de séries temporelles océanographiques.
 
 ### 🏥 Classification NLP - Hospices Civils de Lyon
 Développement d'un modèle de classification multi-label de commentaires patients avec **CamemBERT** et techniques de fine-tuning pour l'aide à la décision clinique.
