@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Ingénieure diplômée de l'École Centrale de Lyon | Passionnée par la data science et le développement</em>
+  <em>Ingénieure passionnée par la data science et le développement</em>
 </p>
 
 <p align="left"> 
@@ -18,9 +18,6 @@
 
 ## 👩‍💻 À propos de moi
 
-- 🎓 **Diplômée** de l'École Centrale de Lyon (Master IA) et ENSMR (Ingénieure SI)
-- 💼 **Data Analyst** chez IFRAL | **Développeuse Web Freelance** sur Upwork
-- 🔬 Expérience en **NLP**, **Machine Learning**, et **analyse de données**
 - 🌐 CV professionnel : [rfarssi00.github.io](https://rfarssi00.github.io/)
 - 📫 Contact : **farssirama@gmail.com**
 
