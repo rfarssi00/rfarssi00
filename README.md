@@ -92,7 +92,7 @@ Création de sites web pour PME internationales avec optimisation UX/UI et gesti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfarssi00&theme=default" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rfarssi00&theme=default" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -104,8 +104,4 @@ Création de sites web pour PME internationales avec optimisation UX/UI et gesti
 
 <p align="center">
   <i>💡 Toujours à la recherche de nouveaux défis en data science et développement !</i>
-</p>
-
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 </p>
