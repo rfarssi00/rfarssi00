@@ -92,7 +92,7 @@ Création de sites web pour PME internationales avec optimisation UX/UI et gesti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rfarssi00&theme=default" alt="GitHub Streak" /></a>
+  <a"GitHub Streak"</a>
 </p>
 
 <p align="center">
