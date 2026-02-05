@@ -84,15 +84,7 @@ Création de sites web pour PME internationales avec optimisation UX/UI et gesti
 <a href="https://medium.com/@r.farssi00" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfarssi00&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfarssi00&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
